@@ -1,5 +1,5 @@
 {
-    "name": "SuportecTL/laravel-loki-logging",
+    "name": "suportectl/laravel-loki-logging",
     "version": "0.0.1",
     "description": "Logging to Loki for Laravel",
     "type": "library",
